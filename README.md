@@ -1,14 +1,5 @@
 # Projects-for-Columbia-Bootcamp
 
-
-Good basic template includes the following, 
-
-1 or more screenshots
-a description of the app 
-anything to take note with the code 
-link to live website 
-
-
 Project Title; Horiseon (SEO) Landing Page - GitHub - Release Stage - 
 
 
@@ -21,10 +12,14 @@ Build Status;
 1. Landing Page is currently done and competeled, the edits were done to complie with accessibility standards. 
 2. Additional edits are welcome. 
 
+Screenshots; 
+![picture](/Assets/01-html-css-git-homework-demo.png)
+
 Code Style; HTML and CSS 
 
-Example of Code/Usage;
-
-Screenshots; 
-
 Link to webstie; 
+https://nicholasdy.github.io/Horiseon-SEO-Landing-Page---GitHub---Release-Stage-/
+
+Built with Visual Studio Code 
+
+Credit- To the Columbia bootcamp team. Editor Nick Dyke 
